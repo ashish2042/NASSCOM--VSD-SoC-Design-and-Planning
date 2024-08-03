@@ -3,5 +3,6 @@
 In this section we discuss about different open-source EDA tools to connect with computer. A brief discription of SoC design and OpenLANE are available. Also to get familiar to open-source EDA tool, labs are also performed. 
 
 ### 1. How to talk to computers
-#### Lecture-1: 
+#### Lecture-1: Introduction to QFN-48 Package
+
 
